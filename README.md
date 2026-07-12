@@ -1,4 +1,4 @@
-# Java_Project_TicTacToe  
+# Python_Project_TicTacToe  
 An Automated Tic-Tac-Toe Game with Adaptive Difficulty Modes
 
 ---
