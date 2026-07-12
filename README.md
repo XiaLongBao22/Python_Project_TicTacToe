@@ -39,15 +39,10 @@ It improves console game interactivity, introduces robust input validation, and 
 
 ## INSTRUCTIONS ON HOW TO RUN
 
-1. Open your terminal or command prompt.
-2. Navigate to the project directory:
-   ```bash
-   cd /Users/albinda/Java_Project_TicTacToe
-   ```
-3. Run the Python file directly using:
-   ```bash
-   python3 MLabProject_Albinda_Megrino.py
-   ```
+1. Open the project in a Python IDE or Terminal
+2. Execute the primary program file:
+   - MLabProject_Albinda_Megrino.py
+3. Run the file class (main script execution)
 
 ---
 
