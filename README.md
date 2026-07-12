@@ -67,6 +67,6 @@ The script operates using a programmatic flow to handle board management, AI sel
 
 ---
 
-## GROUP MEMBERS & PRESENTATION NOTES
+## GROUP MEMBERS
 - **Princess Grace Albinda**  
 - **Anthony John Megrino**  
