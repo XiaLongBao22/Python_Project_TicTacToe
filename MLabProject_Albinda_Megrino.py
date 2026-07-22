@@ -1,4 +1,4 @@
-#Tic Tac Toe
+#Tic Tac Toe Game
 #Computer = X
 #User = O
 
